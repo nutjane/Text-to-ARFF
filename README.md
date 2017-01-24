@@ -1,4 +1,4 @@
-# Spam Detection
+# Text-to-ARFF
 ## CONVERTING THE DATASET TO AN ARFF FILE
 
 The Attribute-Relation File Format (ARFF) is an ASCII text file that describes a list of instances sharing a set
